@@ -16,7 +16,7 @@ public class algorithm {
         System.out.println("알고리즘을 시작해 보아요!!");
         System.out.println("와 재밌겠다~~~");
         System.out.println("찬영이꺼!");
-
+        System.out.println("자바에서 'sout'를 쓰고 'tab'키를 눌러보세요");
     }
 
 }
