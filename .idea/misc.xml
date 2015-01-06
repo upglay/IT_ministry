@@ -29,11 +29,9 @@
   <component name="EclipseCodeFormatter">
     <option name="defaultSettings" value="true" />
     <option name="formatter" value="ECLIPSE" />
-    <option name="id" value="1420186814995" />
-    <option name="importOrderConfigFilePath" value="C:/eclipseformat.xml" />
-    <option name="importOrderFromFile" value="true" />
+    <option name="id" value="1420544857710" />
     <option name="name" value="default" />
-    <option name="pathToConfigFileJava" value="C:/eclipseformat.xml" />
+    <option name="pathToConfigFileJava" value="C:/ecl.xml" />
   </component>
   <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
   <component name="EntryPointsManager">
