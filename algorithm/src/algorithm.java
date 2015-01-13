@@ -16,6 +16,7 @@ public class algorithm {
         System.out.println("알고리즘을 시작해 보아요!!");
         System.out.println("와 재밌겠다~~~");
         System.out.println("ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ");
+        System.out.println("허허");
 
     }
 
